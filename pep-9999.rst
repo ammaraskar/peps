@@ -2,7 +2,8 @@ PEP: 9999
 Title: Automatically Formatting the CPython Repository
 Author: Tal Einat,
         Batuhan Taskaya <isidenticial@gmail.com>,
-        Ammar Askar <ammar@ammaraskar.com>
+        Ammar Askar <ammar@ammaraskar.com>,
+        Dong-hee Na <donghee.na92@gmail.com>
 Status: Active
 Type: Standards Track
 Content-Type: text/x-rst
