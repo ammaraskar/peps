@@ -1,0 +1,71 @@
+PEP: 9999
+Title: Automatically Formatting the CPython Repository
+Author: Tal Einat,
+        Batuhan Taskaya <isidenticial@gmail.com>,
+        Ammar Askar <ammar@ammaraskar.com>
+Status: Active
+Type: Standards Track
+Content-Type: text/x-rst
+Created: 22-Oct-2020
+Python-Version: 3.10
+
+
+Abstract
+========
+
+A short (~200 word) description of the technical issue being addressed.
+
+
+Motivation
+==========
+
+Clearly explain why the existing language specification is inadequate to
+address the problem that the PEP solves.
+
+
+Rationale
+=========
+
+Describe why particular design decisions were made.
+
+
+Specification
+=============
+
+Describe the syntax and semantics of any new language feature.
+
+
+Backwards Compatibility
+=======================
+
+Describe potential impact and severity on pre-existing code.
+
+
+Rejected Ideas
+==============
+
+Why certain ideas that were brought while discussing this PEP were not
+ultimately pursued.
+
+
+References
+==========
+
+A collection of URLs used as references through the PEP.
+
+
+Copyright
+=========
+
+This document is placed in the public domain or under the
+CC0-1.0-Universal license, whichever is more permissive.
+
+
+..
+  Local Variables:
+  mode: indented-text
+  indent-tabs-mode: nil
+  sentence-end-double-space: t
+  fill-column: 70
+  coding: utf-8
+  End:
