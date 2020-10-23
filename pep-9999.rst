@@ -14,7 +14,15 @@ Python-Version: 3.10
 Abstract
 ========
 
-A short (~200 word) description of the technical issue being addressed.
+The CPython repository consists of three major languages: Python, C and
+reStructuredText [1]_. Each of these languages have a set of written
+conventions that are followed by contributors and core developers. The
+process of enforcing these conventions can be subjective and creates a lot
+of unecessary manual work when reviewing code changes.
+
+Many software projects have shifted to a model where code is formatted with
+completely automated tools. This PEP outlines the usage of such tools in
+the CPython development process.
 
 
 Motivation
@@ -52,7 +60,8 @@ ultimately pursued.
 References
 ==========
 
-A collection of URLs used as references through the PEP.
+.. [1] Github search on CPython repo with language types
+   https://github.com/python/cpython/search?l=python
 
 
 Copyright
