@@ -31,6 +31,12 @@ Motivation
 Clearly explain why the existing language specification is inadequate to
 address the problem that the PEP solves.
 
+Other Notable Projects with Automatic Formatting
+------------------------------------------------
+
+* The Rust programming language uses ``rustfmt`` to keep their standard library
+  and self-hosted language formatted [2]_.
+
 
 Rationale
 =========
@@ -62,6 +68,9 @@ References
 
 .. [1] Github search on CPython repo with language types
    https://github.com/python/cpython/search?l=python
+
+.. [2] Rust programming language's auto formatting configuration file
+   https://github.com/rust-lang/rust/blob/master/rustfmt.toml
 
 
 Copyright
