@@ -37,6 +37,9 @@ Other Notable Projects with Automatic Formatting
 * The Rust programming language uses ``rustfmt`` to keep their standard library
   and self-hosted language formatted [2]_.
 
+* The Linux kernel uses ``clang-format`` to keep their C/C++ code automatically
+  formatted [3]_.
+
 
 Rationale
 =========
@@ -71,6 +74,9 @@ References
 
 .. [2] Rust programming language's auto formatting configuration file
    https://github.com/rust-lang/rust/blob/master/rustfmt.toml
+
+.. [3] Linux commit introducing clang-format configuration file
+   https://github.com/torvalds/linux/commit/d4ef8d3ff005c70f6c9e2ffea14cc65fc8fe328d
 
 
 Copyright
